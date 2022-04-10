@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "alpinejs": "^3.9.6",
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
